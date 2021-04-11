@@ -1,4 +1,4 @@
-module github.com/oneillliam/k8s-image-exporter
+module github.com/liamoneill/k8s-image-exporter
 
 go 1.16
 
